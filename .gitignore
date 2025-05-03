@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# venv
+.env
+.venv
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# PyInstaller
+*.spec
+
+# Misc
+*.sqlite3
+*.db
+*.yaml~
