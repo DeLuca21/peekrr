@@ -1,17 +1,25 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/DeLuca21/peekrr/refs/heads/main/assets/peekrr_logo.png" alt="peekrr Logo" width="300">
-</p>
+
+
+
+[![GitHub License](https://img.shields.io/github/license/DeLuca21/peekrr?style=for-the-badge&labelColor=%23585b70&color=%23f5e0dc&logo=github)](https://github.com/DeLuca21/peekrr)
+[![GitHub Release](https://img.shields.io/github/v/release/DeLuca21/peekrr?include_prereleases&style=for-the-badge&labelColor=%23585b70&color=%23cba6f7&logo=github)](https://github.com/DeLuca21/peekrr/releases)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DeLuca21/peekrr/total?style=for-the-badge&label=Downloads&labelColor=%23585b70&color=%23a6da95&logo=github)](https://github.com/DeLuca21/peekrr/releases)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/DeLuca21/peekrr?style=for-the-badge&labelColor=%23585b70&color=%23eba0ac&logo=github)](https://github.com/DeLuca21/peekrr/issues)
+
 
 # Peekrr 🔎🎬  
 
 **Lightning‑fast Jellyseerr CLI for fuzzy search, rich metadata preview, and one‑keypress media requests.**
 
-![Build](https://img.shields.io/github/actions/workflow/status/DeLuca21/peekrr/ci.yml?branch=main&label=CI)  
-![License](https://img.shields.io/github/license/DeLuca21/peekrr)
+---
+<p align="center">
+<img src="https://github.com/DeLuca21/peekrr/blob/main/assetts/peekrr_logo.png?raw=true" alt="peekrr Logo" width="150">
+</p>
 
 ---
 
 ## ✨ Features
+
 - Fuzzy movie / TV search with arrow‑key navigation  
 - Rich metadata panel (year, overview, availability status)  
 - Accurate status mapping → 📀 Available · 🔄 Requested · 🛠️ Processing · 🛑 Not Available  
