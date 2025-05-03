@@ -36,7 +36,15 @@ pipx ensurepath
 pipx install --force 'git+https://github.com/DeLuca21/peekrr'
 ```
 
-### 2. Manual dev install
+### 2. Manual install (via Git clone)
+
+```bash
+git clone https://github.com/DeLuca21/peekrr
+cd peekrr
+pipx install --force .
+```
+
+### 3. Developer install (for contributing)
 
 ```bash
 git clone https://github.com/DeLuca21/peekrr
